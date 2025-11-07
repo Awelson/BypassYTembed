@@ -1,5 +1,5 @@
 # BypassYTembed
-A clone of [brownsugar's codepen](https://codepen.io/brownsugar/pen/oNPzxKo) in case it goes down for some reason. The following is their a copy of their README :
+A clone of [brownsugar's codepen](https://codepen.io/brownsugar/pen/oNPzxKo) in case it goes down for some reason. The following is a copy of their README :
 
 ---
 
